@@ -3,13 +3,13 @@
 A passionate Full Stack Developer from Indonesia.
 
 🌟 **Featured Projects**
-- [samantour](https://github.com/yourusername/Nekomics) - (Brief description of the project)
+- [samantour](https://github.com/maliksamansya) - (Brief description of the project)
 
 🚀 **Currently Working On**
-- [samantour](https://github.com/yourusername/Nekomics)
+- [samantour](https://github.com/maliksamansya)
 
 📚 **Currently Learning**
-- Frameworks, especially Vue.js
+- Frameworks, especially React.Js
 
 🌐 **Portfolio**
 - All of my projects are available at (https://maliksamansya-website.vercel.app/))

@@ -12,7 +12,7 @@ A passionate Full Stack Developer from Indonesia.
 - Frameworks, especially Vue.js
 
 🌐 **Portfolio**
-- All of my projects are available at [https://alfalakhi-website.web.app/](https://alfalakhi-website.web.app/)
+- All of my projects are available at (https://maliksamansya-website.vercel.app/))
 
 📫 **How to Reach Me**
 - Email: maliksamansya206@gmail.com

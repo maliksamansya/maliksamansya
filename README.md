@@ -1,4 +1,4 @@
-# Hi 👋, I'm Firdig Alfalakhi
+# Hi 👋, I'm malik samansya
 
 A passionate Full Stack Developer from Indonesia 🇮🇩.
 

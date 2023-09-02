@@ -1,6 +1,6 @@
 # Hi 👋, I'm malik samansya
 
-A passionate Full Stack Developer from Indonesia 🇮🇩.
+A passionate Full Stack Developer from Indonesia.
 
 🌟 **Featured Projects**
 - [samantour](https://github.com/yourusername/Nekomics) - (Brief description of the project)
